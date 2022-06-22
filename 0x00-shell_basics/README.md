@@ -1,1 +1,2 @@
-script to describe absolute path
+List it
+Print working directory
