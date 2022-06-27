@@ -18,3 +18,4 @@
 22. Write a script that displays all users and their home directories, sorted by users.
 23. Write a script that displays all users and their home directories, sorted by users.
 24. Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+25. Create a script that decodes acrostics that use the first letter of each line.
