@@ -6,3 +6,4 @@
 6. Write a script that displays the third line of the file iacta.
 8. Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
 10. Write a script that counts the number of directories and sub-directories in the current directory.
+13. Create a script that takes a list of words as input and prints only words that appear exactly once.
